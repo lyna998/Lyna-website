@@ -1,9 +1,21 @@
 body {
 
 background-color: blanchedalmond;
+
+} 
+h1{
 text-align: center;
 font-family: 'bitter' ;
-color: brown;
+color : brown;
+ font-size : 80px;
+ font-style:oblique; 
 
-
+}
+#enter{
+    font-style: oblique;
+    text-align: left;
+    color:black;
+    
+    
+    
 }
